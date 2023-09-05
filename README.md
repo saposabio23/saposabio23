@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there ✨
+
+I'm Pablo Moreno, a young multidisciplinary graphic designer, studying in France and working down to Bilbao. 
 
 <!--
 **saposabio23/saposabio23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
